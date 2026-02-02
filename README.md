@@ -77,7 +77,8 @@ print("\nPredicted House Price:", price_model.predict(sample_scaled)[0])
 print("Predicted Number of Occupants:", occupant_model.predict(sample_scaled)[0])
 ~~~
 ## Output:
-<img width="1426" height="239" alt="image" src="https://github.com/user-attachments/assets/7ce8982b-fc5d-47ae-a8ee-817c0c9f58a6" />
+<img width="855" height="224" alt="image" src="https://github.com/user-attachments/assets/21c57e32-bb11-445c-bb49-32a0599b8eed" />
+
 
 
 
