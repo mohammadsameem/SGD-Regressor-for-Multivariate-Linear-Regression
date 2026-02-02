@@ -9,16 +9,19 @@ To write a program to predict the price of the house and number of occupants in 
 
 ## Algorithm
 1. Collect the dataset and separate it into independent variables (house features) and dependent variables (house price and number of occupants).
+   
 2. Split the dataset into training and testing sets and apply feature scaling to the independent variables.
+   
 3.Train the multivariate linear regression model using SGD Regressor on the training data.
+
 4.Predict the house price and number of occupants using the trained model and evaluate the results.
 
 ## Program:
 ```
 /*
 Program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor.
-Developed by: 
-RegisterNumber:  
+Developed by: Mohamed Sameem S
+RegisterNumber:212225040242
 */
 ```
 ~~~
